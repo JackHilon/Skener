@@ -160,7 +160,7 @@ namespace Skener
                 ZC >= 1 && ZC <= 5 &&
                 ZR >= 1 && ZR <= 5)
                 return true;
-            else
+            else 
                 return false;
         }
     }
